@@ -1,2 +1,2 @@
 # FunctionalExperiences
-[Personal] Studying Functional Aproaches Based on Java
+[Personal] Studying Functional Approaches Based on Java
